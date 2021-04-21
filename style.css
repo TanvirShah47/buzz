@@ -1,0 +1,131 @@
+.contain{
+    background:  url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83f98bae1ad80129fcd7e5_wu-jianxiong-UniC8xhlzaE-unsplash.jpg");
+    height: 60vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-size: cover;
+    background-position: center;  
+}
+.col1{
+    background-color: black;
+    margin: 5px;
+    height: 50vh;
+    width: 50vh;
+}
+.col2{
+    background-color: black;
+    margin: 5px;
+    height: 50vh;
+    width: 200vh;
+}
+.col3{
+    background-color: black;
+    margin: 5px;
+    height: 50vh;
+    width: 200vh;
+}
+.support-square-image{
+    position: absolute;
+    left: auto;
+    top: auto;
+    right: -10%;
+    bottom: -10vh;
+    padding: 10px;
+    box-sizing: border-box;
+}
+.triangle{
+    position: absolute;
+    left: auto;
+    top: auto;
+    right: -5vh;
+    bottom: -5vh;
+    box-sizing: border-box;
+}
+.rectangle{
+    position: absolute;
+    left: auto;
+    top: auto;
+    right: -10vh;
+    bottom: -15vh;
+    }
+.section1{
+    margin: 20px;
+}
+.cont{
+    background:url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83fb3a6948e1f05b20527f_nathan-dumlao-pLoMDKtl-JY-unsplash.jpg");
+    height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-size: cover;
+    background-position: center;  
+}
+.col11{
+    background:url("https://assets.website-files.com/5e853c3383474026e43f2c78/5e856e41c718420c18dd6751_patrick-hendry-eDgUyGu93Yw-unsplash.jpg");
+    height: 60vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;  
+}
+.col12{
+    background:url("https://assets.website-files.com/5e853c3383474026e43f2c78/5e8542c1248e59128e08e3e9_ryan-holloway-JyDmUaXMib4-unsplash.jpg");
+    height: 60vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;      
+} 
+.col13{
+    background:url("https://assets.website-files.com/5e853c3383474026e43f2c78/5e85425605cae11f20d46181_denisse-leon-J7CjWufjmg4-unsplash.jpg");
+    height: 60vh;
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;
+    margin-left: 20px;      
+}
+.parent{
+    position: relative;
+    width: 150vh;
+    justify-content: center;
+    background-position: center;
+    align-items: center;
+    background-size: cover;
+    margin-left: 80px;
+}
+.child{
+    background-color: black;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    z-index: 1;
+    padding: 20%;
+    text-align: right;
+}
+.child1{
+    background:url("https://assets.website-files.com/5e7ff3ec0c4ef4c974fa99e3/5e83fe3910db4fde2e69f396_christiann-koepke-dQyS2pMYtok-unsplash%20(1).jpg");
+    height: 90vh;
+    justify-content: center;
+    background-size: cover;
+    background-position: center;      
+    width: 55vh;
+    display: inline-block;
+    position: relative;
+    top: -70vh;
+    left: -80vh;
+    z-index: 5;
+}
+#footer{
+    margin-top: 20px;
+    text-align: center;
+}
+
+
